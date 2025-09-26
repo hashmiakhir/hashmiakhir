@@ -84,9 +84,9 @@ Duration: 2025 - 2028
 🌐 Connect with Me
 
 - 📧 Email: *your.email@example.com*  
-- 💼 LinkedIn: [https://www.linkedin.com/in/aakhir-hashmi-a39b2637a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
-- 🖥️ Portfolio: [yourname.dev](#) (if you have one)  
-- 🐦 Twitter/X: @HashmiAakhir  
+- 💼 LinkedIn: [https://www.linkedin.com/in/aakhir-hashmi-a39b2637a(#)  
+- 🖥️ Portfolio: https://github.com/hashmiakhir/HTML--My-Portfolio-.  
+- 🐦 Twitter/X: https://x.com/HashmiAakhir.  
 - 💻 GitHub: https://github.com/hashmiakhir.
 
 ---
