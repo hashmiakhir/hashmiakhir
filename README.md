@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakhir Hashmi</h1>
+Your�, I'm Aakhir Hashmi</h1>
 <h3 align="center">🚀 Future Software Engineer | 👨‍💻 CS Diploma Student | 💡 Tech Explorer</h3>
 
 <p align="center">
@@ -68,16 +68,14 @@
 🎓 Education
 
 *Diploma in Computer Science* 
-[Your College Name], [City/State]  
-*Duration:* [Start Year] – [End Year]  
-CGPA: [If you want to include it]
+Acharya Institute of Technology, Benguluru 📍
+Duration: 2025 - 2028
 
----
 
 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165">
+  <img src="rname_icons=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="165">
 </p>
 
