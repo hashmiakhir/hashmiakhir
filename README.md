@@ -76,15 +76,15 @@ Duration: 2025 - 2028
 
 <p align="center">
   <img src="rname_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashmiakhir&layout=compact&theme=radical" height="165">
 </p>
 
 ---
 
 🌐 Connect with Me
 
-- 📧 Email: *your.email@example.com*  
-- 💼 LinkedIn: [https://www.linkedin.com/in/aakhir-hashmi-a39b2637a(#)  
+- 📧 Email: akhirhashmiah@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/aakhir-hashmi-a39b2637a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - 🖥️ Portfolio: https://github.com/hashmiakhir/HTML--My-Portfolio-.  
 - 🐦 Twitter/X: https://x.com/HashmiAakhir.  
 - 💻 GitHub: https://github.com/hashmiakhir.
