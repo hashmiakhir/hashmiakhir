@@ -1,4 +1,4 @@
-Your�, I'm Aakhir Hashmi</h1>
+<h1>Hi 👋, I'm Aakhir Hashmi</h1>
 <h3 align="center">🚀 Future Software Engineer | 👨‍💻 CS Diploma Student | 💡 Tech Explorer</h3>
 
 <p align="center">
@@ -95,10 +95,3 @@ Duration: 2025 - 2028
 ```
 
 ---
-
-✅ What to do next:
-- Replace: `[Your Name]`, `your-username`, college name, links, etc.
-- Paste into your `README.md` inside your GitHub profile repository.
-- You can add emojis, badges, and animations if you want it more visual.
-
-Let me know if you want me to fill this in fully for *your real data*.
