@@ -85,7 +85,7 @@ Duration: 2025 - 2028
 
 - 📧 Email: akhirhashmiah@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/aakhir-hashmi-a39b2637a.
-- My er/X: https://x.com/HashmiAakhir.  
+- Twitter/X: https://x.com/HashmiAakhir.  
 - 💻 GitHub: https://github.com/hashmiakhir.
 
 ---
