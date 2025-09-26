@@ -10,7 +10,7 @@
 🧑‍💻 About Me
 
 - 🎓 I’m currently pursuing a Diploma in Computer Science  
-- 💻 Passionate about *Web Development*, *DSA*, and building real-world projects  
+- 💻 Passionate about *Web Development*, *DSA*, and *building real-world projects*  
 - 🚀 Currently learning *MERN Stack*, *Git & GitHub*, and *Cloud Basics*  
 - 🌱 Exploring Open Source and ready to contribute to meaningful projects  
 - 🧠 I believe in “learning by building” and improving every single day
