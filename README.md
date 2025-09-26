@@ -35,7 +35,7 @@
 
 💼 Experience & Roles
 
-🎓 Computer Science Diploma Student
+🎓 Computer Science Diploma Student at
 Acharya Institute of Technology | [2025-28]  
 - Completed multiple academic and self-built projects  
 - Participated in coding events, hackathons, and tech fests  
