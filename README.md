@@ -41,7 +41,7 @@ Acharya Institute of Technology | [2025-28]
 - Participated in coding events, hackathons, and tech fests  
 - Led a mini team project on [Resturant Landing Page]
 
-🚀 Techiptioncts
+🚀 Projects 
 
 | Name | Description | Tech |
 |------|-------------|------|
