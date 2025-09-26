@@ -36,16 +36,16 @@
 💼 Experience & Roles
 
 🎓 Computer Science Diploma Student
-*Acharya Institute of Technology* | *[2025-28]*  
+Acharya Institute of Technology | [2025-28]  
 - Completed multiple academic and self-built projects  
 - Participated in coding events, hackathons, and tech fests  
-- Led a mini team project on *[Resturant Landing Page]
+- Led a mini team project on [Resturant Landing Page]
 
 🚀 Techiptioncts
 
 | Name | Description | Tech |
 |------|-------------|------|
-| *Student Management System* | A C++ CLI app for managing records | C++ |
+| *Python Management System* | A C++ CLI app for managing records | C++ |
 | *Notes App* | A local-storage based web notes tool | HTML, CSS, JS |
 | *Portfolio Website* | Personal portfolio site hosted on Netlify | HTML, CSS, JS |
 | *Tic Tac Toe Game* | 2-player classic game with interactive UI | JS, DOM |
@@ -57,9 +57,9 @@
 
 🏅 Achievements & Certifications
 
-- ✅ *Introduction to Web Development* – Coursera  
-- ✅ *Git & GitHub Essentials* – Great Learning  
-- ✅ *Python for Everybody* – FreeCodeCamp  
+- ✅ Introduction to WWeb Bengulurucharyaciencecienceomputerevelopment – Coursera  
+- ✅ Git & GitHub Essentials – Great Learning  
+- ✅ Python for Everybody - FreeCodeCamp  
 - 🏆 Winner – Code Challenge at Acharya Polytechnic Techfest
 - 🥈 2nd Place – UI Design Sprint (Figma + HTML prototype)
 
@@ -67,7 +67,7 @@
 
 🎓 Education
 
-*Diploma in Computer Science* 
+Diploma in Computer Science
 Acharya Institute of Technology, Benguluru 📍
 Duration: 2025 - 2028
 
@@ -84,9 +84,8 @@ Duration: 2025 - 2028
 🌐 Connect with Me
 
 - 📧 Email: akhirhashmiah@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/aakhir-hashmi-a39b2637a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- 🖥️ Portfolio: https://github.com/hashmiakhir/HTML--My-Portfolio-.  
-- 🐦 Twitter/X: https://x.com/HashmiAakhir.  
+- 💼 LinkedIn: https://www.linkedin.com/in/aakhir-hashmi-a39b2637a.
+- My er/X: https://x.com/HashmiAakhir.  
 - 💻 GitHub: https://github.com/hashmiakhir.
 
 ---
