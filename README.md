@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Aakhir Hashmi</h1>
+<h1 align="center">👋 Hi, I'm Aakhir Hashmi</h1>
 <h3 align="center">🚀 Future Software Engineer | 👨‍💻 CS Diploma Student | 💡 Tech Explorer</h3>
 
 <p align="center">
